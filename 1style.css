@@ -1,0 +1,56 @@
+.container-body{
+  background-color: #fff;
+}
+
+.container-informasi-pribadi{
+  color: skyblue;
+}
+
+.container-latar-belakang-pendidikan{
+  color: skyblue;
+}
+
+.container-informasi{
+  color: #000;
+  padding:0;
+}
+
+.container-background-biodata1{
+  background-color:black;
+}
+
+.container-biodata1{
+  font-size:170%;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}  
+
+.container-div-img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-jpg{
+  width:200px;
+  height:200px;
+  border-radius: 100px;
+}
+
+.container-latar{
+  color: #000;
+}
+
+.container-minat-dan-hobi{
+  color: skyblue;
+}
+
+.container-minat{
+  color: #000;
+}
+
+.container-instagram{
+  text-decoration: none;
+}
